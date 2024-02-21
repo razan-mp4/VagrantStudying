@@ -15,6 +15,7 @@ Tasks on Vagrant
 2.Встановити Vagrant.
 
 >vagrant -v
+>
 >Vagrant 2.4.1
 
 
